@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Usuario
+Build-Jdk: 15
+Implementation-Title: biblio
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: biblioteca
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
